@@ -22,5 +22,7 @@ To utilize the application:
 2. Utilize the search bar to find specific phones by entering relevant keywords.
 3. Click on default cards to view detailed information about individual phones.
 4. Make use of the "Show All" button to browse through all available phones and their details.
+
+
 **Conclusion**
 This project endeavors to furnish users with a streamlined and effective means to explore and access phone details. With its visually appealing design, intuitive search functionality, and comprehensive features, users can readily discover the information they seek while enjoying a seamless browsing experience.
